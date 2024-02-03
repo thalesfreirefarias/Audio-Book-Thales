@@ -1,0 +1,62 @@
+body {
+  background-image: linear-gradient(#3b1566, #5f4da8);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  color: #d6d6ea;
+}
+
+.container__app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+button {
+  background-color: inherit;
+  color: inherit;
+  border: none;
+  cursor: pointer;
+}
+
+.music-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#informacoes-faixa {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 2rem 0 1rem 0;
+  font-size: 1.5rem;
+}
+
+
+#backward, #forward {
+  font-size: 3rem;
+}
+
+#play-pause {
+  font-size: 4rem;
+}
+
+#container__button {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.estudos {
+  background-color: #6278f7;
+  text-align: center;
+}
+
+.minha-imagem {
+  width: 100%;
+  max-height: 200px; /* ou ajuste conforme necessário */
+  margin-top: -60px; /* ou ajuste conforme necessário para subir a imagem */
+}

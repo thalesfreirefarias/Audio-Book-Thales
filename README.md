@@ -6,7 +6,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="site.png" alt="Exemplo imagem">
+<img src="Captura de Tela 2024-02-03 às 18.30.26.png" alt="Exemplo imagem">
 
 > Thales Farias created a site akin to Spotify for practicing HTML and CSS, providing a unique music experience and an opportunity to enhance front-end coding skills
 

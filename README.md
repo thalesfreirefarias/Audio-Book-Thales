@@ -8,13 +8,13 @@
 
 <img src="Captura de Tela 2024-02-03 às 18.30.26.png" alt="Exemplo imagem">
 
-> Thales Farias created a site akin to Spotify for practicing HTML and CSS, providing a unique music experience and an opportunity to enhance front-end coding skills
+> Thales Farias has crafted a website designed to facilitate the enjoyment of the 'Dom Casmurro' audiobook, providing a dynamic platform to practice HTML, CSS, and JavaScript.
 
 ### Adjustments and improvements.
 
 The project is still under development, and the upcoming updates will focus on the following tasks:
 
-- [x] Create a Javascipt file to creat a scearch tool in the website
+- [x] Enhance the user experience through improvements in CSS design.
 
 
 The following tools were used in the construction of the project:
